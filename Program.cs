@@ -32,6 +32,8 @@ namespace Aufgabe001
 
                 alleParts.CopyTo(relevanteParts, 1);
 
+                // KOMMENTAR :D
+
                 //foreach (string test in relevanteParts)
                 //{
                 //    Console.WriteLine(test);
